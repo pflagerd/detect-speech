@@ -1,1 +1,2 @@
 /blog/ git@github.com:pflagerd/blog-bootstrap detect-speech
+/silero-vad/ git@github.com:pflagerd/python-venv-bootstrap.git silero-vad
